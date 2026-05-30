@@ -40,7 +40,7 @@
 - 🔨 Building: `Somali Coders Hub`
 - 💬 Ask me about: React, Frontend, Backend, Tailwind, GSAP, PHP ,Databases
 - 📫 Reach me: **abdalapoi223@gmail.com**
-- 🔗 Portfolio: [Click Here](https://your-portfolio-link.com) <!-- change this -->
+- 🔗 Portfolio: [Click Here](https://abdullahi4444.github.io/Abdullahi-Abdiweli-Adam-portfolio) <!-- change this -->
 
 ---
 
