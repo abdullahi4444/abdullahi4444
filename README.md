@@ -9,9 +9,15 @@
 <p align="center">
   🚀 <b>Software Developer</b> | 🎨 <b>UI/UX Designer</b> | 🎥 <b>Video Editor</b> <br>
   I'm passionate about building stunning, fast, and functional web apps that create real impact.<br>
-</p>
+</p><br>
 
----
+<!-- Profile Views & Badges -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdullahi223&label=PROFILE+VIEWS&color=00F3B0&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Abdullahi4444?label=FOLLOWERS&style=for-the-badge&color=00F3B0" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Abdullahi4444?label=STARS&style=for-the-badge&color=00F3B0" alt="Stars" />
+  <img src="https://img.shields.io/badge/🚀-Open%20to%20Collaborate-00F3B0?style=for-the-badge" alt="Collaboration" />
+</div> <br>
 
 ## 🛠 My Tech Stack
 
@@ -19,20 +25,19 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,tailwind,figma,python,cpp,github,vscode,bootstrap,figma,flutter,mongodb,linux,photoshop,illustrator" />
 </p>
 
----
+<!-- Animated Banner -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahi223&show_icons=true&theme=radical&border_radius=10&count_private=true&hide_title=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahi223&layout=compact&theme=radical&border_radius=10" height="180"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahi223&theme=radical&hide_border=false" height="160"/>
 </p>
-
----
 
 ## 🌍 About Me
 
@@ -42,16 +47,6 @@
 - 📫 Reach me: **abdalapoi223@gmail.com**
 - 🔗 Portfolio: [Click Here](https://abdullahi4444.github.io/Abdullahi-Abdiweli-Adam-portfolio) <!-- change this -->
 
----
-
-## 🧠 Quick Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdullahi223&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Abdullahi223?label=Follow%20Me&style=social" />
-</p>
-
----
 
 ## 📫 Let’s Connect
 
@@ -60,3 +55,22 @@
   <a href="https://linkedin.com/inhttps://www.linkedin.com/in/abdullahi-abdiweli-98080a348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "><img src="https://img.shields.io/badge/linkedin-Abdullahi-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/portfolio-View%20Now-0abde3?style=flat-square&logo=web&logoColor=white"/></a>
 </p>
+
+<!-- Footer Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+<br/>
+
+<!-- Dynamic Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" />
+</div>
+
+<br/>
+
+<!-- Last Updated Badge -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Last%20Updated-2026--07--28-00F3B0?style=flat-square" />
+</div>
