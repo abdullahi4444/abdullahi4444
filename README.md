@@ -63,13 +63,6 @@
 
 <br/>
 
-<!-- Dynamic Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" />
-</div>
-
-<br/>
-
 <!-- Last Updated Badge -->
 <div align="center">
   <img src="https://img.shields.io/badge/Last%20Updated-2026--07--28-00F3B0?style=flat-square" />
