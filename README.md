@@ -34,10 +34,68 @@
   </picture>
 </div>
 
-## 📊 GitHub Analytics
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🛠 Maintain-Pro</h3>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahi223&theme=radical&hide_border=false" height="160"/>
+A modern maintenance management platform for tracking services, tasks, and workflows efficiently.
 </p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js"/>
+</p>
+
+<p align="center">
+<a href="https://maintain-pro-pi.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-00F3B0?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/abdullahi4444/Maintain-Pro">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+
+
+<td width="50%">
+
+<h3 align="center">❤️ Heart Disease Prediction API</h3>
+
+<p align="center">
+Machine Learning API that predicts heart disease risk using trained predictive models.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Machine%20Learning-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/API-REST-FF6C37?style=flat-square"/>
+</p>
+
+<p align="center">
+<a href="https://heart-disease-prediction-api-five.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20API-00F3B0?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/abdullahi4444/Heart-Disease-Prediction-API">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ## 🌍 About Me
 
