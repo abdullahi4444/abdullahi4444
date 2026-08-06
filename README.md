@@ -97,31 +97,7 @@ Machine Learning API that predicts heart disease risk using trained predictive m
 
 </div>
 
-## 🌍 About Me
-
-- 🌐 Based in **Mogadishu, Somalia**
-- 🔨 Building: `Somali Coders Hub`
-- 💬 Ask me about: React, Frontend, Backend, Tailwind, GSAP, PHP ,Databases
-- 📫 Reach me: **abdalapoi223@gmail.com**
-- 🔗 Portfolio: [Click Here](https://abdullahi4444.github.io/Abdullahi-Abdiweli-Adam-portfolio) <!-- change this -->
-
-
-## 📫 Let’s Connect
-
-<p align="center">
-  <a href="mailto:abdalapoi223@gmail.com"><img src="https://img.shields.io/badge/email-abdalapoi223@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/inhttps://www.linkedin.com/in/abdullahi-abdiweli-98080a348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "><img src="https://img.shields.io/badge/linkedin-Abdullahi-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/portfolio-View%20Now-0abde3?style=flat-square&logo=web&logoColor=white"/></a>
-</p>
-
 <!-- Footer Animation -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-<br/>
-
-<!-- Last Updated Badge -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-2026--07--28-00F3B0?style=flat-square" />
 </div>
